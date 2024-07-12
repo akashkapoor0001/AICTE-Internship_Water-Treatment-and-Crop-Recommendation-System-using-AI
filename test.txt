@@ -1,14 +1,1 @@
-{
-  "commit": {
-    "author": {
-      "name": "Your Name",
-      "date": "2024-07-12T12:34:56Z"
-    },
-    "message": "Added new API key for authentication",
-    "sha": "abcdef1234567890"
-  }
-}
-
-
-const apiKey = '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';
 
